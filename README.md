@@ -1,2 +1,2 @@
 # user-manage-service
-Use to handle anthenrication and authorization of system
+Use to handle anthentication and authorization of system
